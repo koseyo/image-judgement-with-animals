@@ -4,8 +4,8 @@ from pprint import pprint
 import os, time, sys
 
 # apiキー
-key = "ff77cbaade214e6967e2e4e1824dfbe1"
-secret = "30556bce30a2ebae"
+key = ""
+secret = ""
 wait_time = 1
 
 # 保存フォルダ
